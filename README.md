@@ -49,24 +49,28 @@
 
 <div>
 <img alt='Orlando-Heroku' src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white' />
-<img alt='Orlando-Heroku' src='https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white' />
-<img alt='Orlando-Heroku' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
-<img alt='Orlando-Heroku' src='https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white' />
-<img alt='Orlando-Heroku' src='https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white' />
-<img alt='Orlando-Heroku' src='https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white' />
-<img alt='Orlando-Heroku' src='https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9' />
 <img alt='Orlando-Heroku' src='https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white' />
 <img alt='Orlando-Heroku' src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white' />
 <img alt='Orlando-Heroku' src='https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white' />
-<img alt='Orlando-Heroku' src='https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white' />
 <img alt='Orlando-Heroku' src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' />
 <img alt='Orlando-Heroku' src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' />
-<img alt='Orlando-Heroku' src='https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9' />
 </div>
 
 
 
 ##	
+
+<div align='center'> 
+  <img alt='Orlando-Heroku' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orlandodantas&theme=dracula' />
+</div>
 
 <div> 
   ![Snake animation](https://github.com/rafaballerini/orlandodantas/blob/output/github-contribution-grid-snake.svg)
