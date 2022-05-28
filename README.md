@@ -3,23 +3,24 @@
 ### Olá 👋! Sou *Orlando Dantas*, seja bem vindo.
 
 <div> 
-  <a href = "mailto:orlandodantas.1@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/orlando-dantas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:orlandodantas.1@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/orlando-dantas" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </div> 
 
-
+<br />
 <div align="center">
   <img height="180em" src='https://github-readme-stats.vercel.app/api?username=orlandodantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true' />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandodantas&layout=compact&langs_count=10&theme=dracula&count_private=true"/>
 </div>
 
-
-
-### Tecnologias
 ##
+### Tecnologias:
 
 <div>
-  <br />
   <img alt='Orlando-Heroku' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
   <img alt='Orlando-Heroku' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
   <img alt='Orlando-Heroku' src='https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white' />
@@ -43,8 +44,29 @@
   <img alt='Orlando-Heroku' src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' />
 </div>
   
-  ##
- 	
+##
+### Estou de 👀 em:
+
+<div>
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' />
+<img alt='Orlando-Heroku' src='https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white' />
+</div>
+
+
+
+##	
 
 <div> 
   ![Snake animation](https://github.com/rafaballerini/orlandodantas/blob/output/github-contribution-grid-snake.svg)
