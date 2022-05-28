@@ -1,6 +1,6 @@
 <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{orlandodantas}1212%2Fhit-counter' />
 
-### Olá 👋! Sou *Orlando Dantas*, seja bem vindo.
+### Olá <img alt="Orlando-Avatar" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/80732078/170845687-324b0c1b-9dbc-4f5c-afd3-8f940d174832.png">! Sou *Orlando Dantas*, seja bem vindo.
 
 <div> 
   <a href = "mailto:orlandodantas.1@hotmail.com" target="_blank">
@@ -15,6 +15,9 @@
 <div align="center">
   <img height="180em" src='https://github-readme-stats.vercel.app/api?username=orlandodantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true' />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandodantas&layout=compact&langs_count=10&theme=dracula&count_private=true"/>
+  
+  <img align="right" alt="Orlando-Avatar" height="150" style="border-radius:50px;" src="https://sdk.bitmoji.com/render/panel/5e845383-93bc-40c1-bdde-3574c1b7c810-b39352ef-8bac-42fc-ad57-d64330de2f75-v1.png?transparent=1&palette=1">
+  
 </div>
 
 ##
@@ -66,13 +69,14 @@
 
 
 
-##	
+##
 
 <div align='center'> 
   <img alt='Orlando-Heroku' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orlandodantas&theme=dracula' />
 </div>
 
-<div> 
-  ![Snake animation](https://github.com/rafaballerini/orlandodantas/blob/output/github-contribution-grid-snake.svg)
- 
+##
+
+<div align="center"> 
+  <img align="center" alt="Orlando-Avatar" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/80732078/170845276-0077fa9a-5b11-4a41-8f00-de69765fcb94.png">
 </div>
