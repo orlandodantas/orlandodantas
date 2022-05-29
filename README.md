@@ -1,6 +1,4 @@
-<img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{orlandodantas}1212%2Fhit-counter' />
-
-### Olá <img alt="Orlando-Avatar" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/80732078/170845687-324b0c1b-9dbc-4f5c-afd3-8f940d174832.png">! Sou *Orlando Dantas*, seja bem vindo.
+### Olá <img alt="Orlando-Avatar" height="50" style="border-radius:50px;" src="https://user-images.githubusercontent.com/80732078/170845687-324b0c1b-9dbc-4f5c-afd3-8f940d174832.png">! Sou *Orlando Dantas*, seja bem vindo!!!
 
 <div> 
   <a href = "mailto:orlandodantas.1@hotmail.com" target="_blank">
@@ -29,10 +27,7 @@
   <img alt='Orlando-Heroku' src='https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white' />
   <img alt='Orlando-Heroku' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
   <img alt='Orlando-Heroku' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
-</div>
 
-<div>
-  <br />
   <img alt='Orlando-Heroku' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
   <img alt='Orlando-Heroku' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
   <img alt='Orlando-Heroku' src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' />
@@ -47,7 +42,6 @@
   <img alt='Orlando-Heroku' src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' />
 </div>
   
-##
 ### Estou de 👀 em:
 
 <div>
@@ -67,7 +61,9 @@
 <img alt='Orlando-Heroku' src='https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9' />
 </div>
 
+##
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F74E9C&center=true&multiline=true&width=800&height=130&lines=Atualmente+Trabalho+com+desenvolvimento+desktop+em+Delphi%2C;e+estou+estudando+desenvolvimento+Web+Full+Stack+na+Trybe.;Super+apaixonado+por+tecnologia%2C+estou+bastante+empolgado%2C;em+poder+juntar+o+melhor+dos+dois+mundos%2C+assim+podendo;mudar+a+vida+de+muito+mais+pessoas.)](https://git.io/typing-svg)
 
 ##
 
@@ -80,3 +76,5 @@
 <div align="center"> 
   <img align="center" alt="Orlando-Avatar" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/80732078/170845276-0077fa9a-5b11-4a41-8f00-de69765fcb94.png">
 </div>
+
+<img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{orlandodantas}1212%2Fhit-counter' />
