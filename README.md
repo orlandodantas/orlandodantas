@@ -76,4 +76,8 @@
   <img align="center" alt="Orlando-Avatar" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/80732078/170845276-0077fa9a-5b11-4a41-8f00-de69765fcb94.png">
 </div>
 
-<img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{orlandodantas}1212%2Fhit-counter' />
+<div align="center"> 
+  <img align='center' src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{orlandodantas}1212%2Fhit-counter' />
+</div>
+
+
