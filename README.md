@@ -11,8 +11,8 @@
 
 <br />
 <div align="center">
-  <img height="180em" width="49%" src='https://github-readme-stats.vercel.app/api?username=orlandodantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true' />
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandodantas&layout=compact&langs_count=10&theme=dracula&count_private=true"/>
+  <img height="190em" width="49%" src='https://github-readme-stats.vercel.app/api?username=orlandodantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true' />
+  <img height="190em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandodantas&layout=compact&langs_count=10&theme=dracula&count_private=true"/>
 </div>
 
 <img align="right" alt="Orlando-Avatar" height="150" style="border-radius:50px;" src="https://sdk.bitmoji.com/render/panel/5e845383-93bc-40c1-bdde-3574c1b7c810-b39352ef-8bac-42fc-ad57-d64330de2f75-v1.png?transparent=1&palette=1">
