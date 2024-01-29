@@ -57,7 +57,7 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=300&color=F74E9C&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=300&lines=Ol%C3%A1!+Sou+Orlando+Dantas%2C+um+entusiasta+da+tecnologia+e+;desenvolvedor+com+experi%C3%AAncia+em+Delphi+e%2C+atualmente%2C+;em+transi%C3%A7%C3%A3o+para+TypeScript%2C+React%2C+Node.js+e+outras+tecnologias+;modernas.+Formado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+e+;rec%C3%A9m-sa%C3%ADdo+do+curso+intensivo+de+Desenvolvimento+Web+da+Trybe.+;Estou+em+constante+busca+pelo+aprimoramento+e+empenhado+em+;contribuir+para+projetos+inovadores.+Meu+objetivo+%C3%A9+criar+solu%C3%A7%C3%B5es+;de+software+que+agreguem+valor+ao+mundo.+Conecte-se+comigo+e+vamos+;colaborar+em+projetos+incr%C3%ADveis!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=300&color=F74E9C&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=300&lines=Ol%C3%A1!+Sou+Orlando+Dantas%2C+um+entusiasta+da+tecnologia+e+;desenvolvedor+com+experi%C3%AAncia+em+Delphi+e%2C+atualmente%2C+;em+transi%C3%A7%C3%A3o+para+TypeScript%2C+React%2C+Node.js+e+outras+;tecnologias+modernas.+Formado+em+An%C3%A1lise+e+Desenvolvimento;de+Sistemas+e+rec%C3%A9m-sa%C3%ADdo+do+curso+intensivo+de+;Desenvolvimento+Web+da+Trybe.+;Estou+em+constante+busca+pelo+aprimoramento+e+empenhado+;em+contribuir+para+projetos+inovadores.+Meu+objetivo+%C3%A9+;criar+solu%C3%A7%C3%B5es+de+software+que+agreguem+valor+ao+mundo.+;Conecte-se+comigo+e+vamos+colaborar+em+projetos+incr%C3%ADveis!)](https://git.io/typing-svg)
 
 ##
 
