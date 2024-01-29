@@ -10,10 +10,9 @@
 
 <br />
 <div align="center">
-  <img height="190em" width="49%" src='https://github-readme-stats.vercel.app/api?username=orlandodantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true' />
+  <img height="190em" width="49%" src='https://github-readme-stats.vercel.app/api?username=orlandodantas&show_icons=true&theme=dracula&count_private=true&include_all_commits=true' />
   <img height="190em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandodantas&layout=compact&langs_count=10&theme=dracula&count_private=true"/>
 </div>
-<img height="190em" width="49%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
 
 <img align="right" alt="Orlando-Avatar" height="150" style="border-radius:50px;" src="https://sdk.bitmoji.com/render/panel/5e845383-93bc-40c1-bdde-3574c1b7c810-b39352ef-8bac-42fc-ad57-d64330de2f75-v1.png?transparent=1&palette=1">
 
@@ -28,12 +27,13 @@
   <img alt='Orlando-CSS3' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
 
   <img alt='Orlando-Node' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
+  <img alt='Orlando-NestJs' src='https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white' />
+  <img alt='Orlando-Prisma' src='https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white' />
   <img alt='Orlando-React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
   <img alt='Orlando-Redux' src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' />
   <img alt='Orlando-Express' src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white' />
   <img alt='Orlando-JWT' src='https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white' />
   <img alt='Orlando-ESlint' src='https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white' />
-  <img alt='Orlando-Squelize' src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white' />
   <img alt='Orlando-MariaDB' src='https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white' />
   <img alt='Orlando-MySql' src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' />
   <img alt='Orlando-Docker' src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white' />
@@ -45,24 +45,19 @@
 
 <div>
 <img alt='Orlando-AWS' src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white' />
-<img alt='Orlando-NestJs' src='https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white' />
-<img alt='Orlando-Adonis' src='https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white' />
 <img alt='Orlando-Next' src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' />
-<img alt='Orlando-Prisma' src='https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white' />
 <img alt='Orlando-Swagger' src='https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white' />
 <img alt='Orlando-MongoDB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
 <img alt='Orlando-Eslatic_Search' src='https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white' />
 <img alt='Orlando-Redis' src='https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white' />
 <img alt='Orlando-RabbitMQ' src='https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white' />
-<img alt='Orlando-C_Sharp' src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' />
-<img alt='Orlando-Python' src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' />
 <img alt='Orlando-Go' src='https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white' />
 <img alt='Orlando-Electron' src='https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9' />
 </div>
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F74E9C&center=true&multiline=true&width=800&height=130&lines=Atualmente+Trabalho+com+desenvolvimento+desktop+em+Delphi%2C;e+estou+estudando+desenvolvimento+Web+Full+Stack+na+Trybe.;Super+apaixonado+por+tecnologia%2C+estou+bastante+empolgado%2C;em+poder+juntar+o+melhor+dos+dois+mundos%2C+assim+podendo;mudar+a+vida+de+muito+mais+pessoas.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=300&color=F74E9C&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=300&lines=Ol%C3%A1!+Sou+Orlando+Dantas%2C+um+entusiasta+da+tecnologia+e+;desenvolvedor+com+experi%C3%AAncia+em+Delphi+e%2C+atualmente%2C+;em+transi%C3%A7%C3%A3o+para+TypeScript%2C+React%2C+Node.js+e+outras+tecnologias+;modernas.+Formado+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+e+;rec%C3%A9m-sa%C3%ADdo+do+curso+intensivo+de+Desenvolvimento+Web+da+Trybe.+;Estou+em+constante+busca+pelo+aprimoramento+e+empenhado+em+;contribuir+para+projetos+inovadores.+Meu+objetivo+%C3%A9+criar+solu%C3%A7%C3%B5es+;de+software+que+agreguem+valor+ao+mundo.+Conecte-se+comigo+e+vamos+;colaborar+em+projetos+incr%C3%ADveis!)](https://git.io/typing-svg)
 
 ##
 
