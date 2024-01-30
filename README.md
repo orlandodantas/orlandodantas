@@ -45,6 +45,7 @@
 ### Estou de 👀 em:
 
 <div>
+<img alt='Orlando-Go' src='https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white' />
 <img alt='Orlando-AWS' src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white' />
 <img alt='Orlando-Next' src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' />
 <img alt='Orlando-Swagger' src='https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white' />
@@ -52,7 +53,6 @@
 <img alt='Orlando-Eslatic_Search' src='https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white' />
 <img alt='Orlando-Redis' src='https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white' />
 <img alt='Orlando-RabbitMQ' src='https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white' />
-<img alt='Orlando-Go' src='https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white' />
 <img alt='Orlando-Electron' src='https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9' />
 </div>
 
